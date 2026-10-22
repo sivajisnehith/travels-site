@@ -1,4 +1,4 @@
-# Snehith Travels 🚌
+# Travels Site 🚌
 
 > **Production-grade Bus Booking Backend & Demo MVP**
 > Designed as the deterministic source-of-truth travel booking service for **Saarthi AI** (an upcoming AI voice travel agent).
